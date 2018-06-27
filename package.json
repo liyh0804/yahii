@@ -2,9 +2,11 @@
   "name": "yahii",
   "version": "1.0.0",
   "description": "node与koa2结合，穿插中间件的使用",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "yahii": "./bin/yahii.js"
   },
   "repository": {
     "type": "git",
