@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/liyh0804/yahii#readme",
   "dependencies": {
+    "commander": "^2.15.1",
     "koa": "^2.5.1",
     "koa-route": "^3.2.0"
   }
