@@ -6,3 +6,8 @@
         "yahii": "./bin/yahii.js",
     },
 4、npm link将本地开发软连接到/usr/local/lib/node_modules/yahii
+
+##########################################################################
+
+1、npm 命令开发依赖包 commander/yargs，本例子采用commander
+
