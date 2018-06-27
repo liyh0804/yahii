@@ -1,0 +1,24 @@
+{
+  "name": "yahii",
+  "version": "1.0.0",
+  "description": "node与koa2结合，穿插中间件的使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyh0804/yahii.git"
+  },
+  "keywords": [
+    "node",
+    "koa2",
+    "middleware"
+  ],
+  "author": "liyahui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyh0804/yahii/issues"
+  },
+  "homepage": "https://github.com/liyh0804/yahii#readme"
+}
